@@ -1,0 +1,10 @@
+{
+  "EOLStyle": null,
+  "Filter": "Name=Qops+-TestStas,Id=*,Owner=*,Stream=*",
+  "ExtensionsFilter": "*",
+  "Ignore": "",
+  "Placeholders": null,
+  "Profile": "jwt",
+  "Reduce": "",
+  "SkipExtensions": false
+}

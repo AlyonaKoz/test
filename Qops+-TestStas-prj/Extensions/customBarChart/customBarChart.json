@@ -1,0 +1,22 @@
+{
+  "name": "customBarChart",
+  "Properties": [
+    {
+      "server": "rds2.dvsts.com",
+      "customProperties": [
+        {
+          "name": "StreamAccess_PowerUser",
+          "values": [
+            "CN=ugEU_MSMART-TST-MSMART_Omnia-POW,OU=Global,OU=Groups,OU=QlikSense,OU=Common Services,DC=eu,DC=merckgroup,DC=com",
+            "CN=ugEU_MSMART-TST-OneOmniA-POW,OU=Global,OU=Groups,OU=QlikSense,OU=Common Services,DC=eu,DC=merckgroup,DC=com"
+          ]
+        }
+      ],
+      "tags": [
+        "TestTag3",
+        "wr0ng f!le $ystem | t@g"
+      ]
+    }
+  ],
+  "qopsExtensionType": "QlikSense"
+}
